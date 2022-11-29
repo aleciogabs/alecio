@@ -16,3 +16,4 @@ Meu nome é Gabriela Alecio, tenho 18 anos e estou cursando Ciência da Computa�
 # Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aleciogabs&repo=aleciogabs.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
