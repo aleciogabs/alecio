@@ -11,6 +11,8 @@ Meu nome é Gabriela Alecio, tenho 19 anos e estou cursando Ciência da Computa�
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleciogabs&theme=radical)](https://github.com/aleciogabs/github-readme-stats)
 
 # Projetos
