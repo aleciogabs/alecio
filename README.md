@@ -1,7 +1,7 @@
 ### Olá 👋
 
 # Biografia
-Meu nome é Gabriela Alecio, tenho 19 anos e estou cursando Ciência da Computação. Tenho conhecimento de Python, C, C++, FLutter.
+Meu nome é Gabriela Alecio, tenho 19 anos e estou cursando Ciência da Computação.
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
